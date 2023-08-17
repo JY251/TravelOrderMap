@@ -1,0 +1,8 @@
+.menu-bar {
+  position:sticky;
+  top: 0;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  z-index: 1000;
+}
